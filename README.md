@@ -28,12 +28,6 @@ Sur une TV ou box Android (Chromecast, Fire TV, Shield…) :
 
 Le code donne toujours la **dernière version**.
 
-### Autres moyens
-
-- Lien court : http://aftv.news/7201837
-- Lien direct (dernière version) : https://github.com/zaka0002/ZaakTV/releases/latest/download/ZaakTV.apk
-- Toutes les versions : onglet [Releases](../../releases)
-
 Une fois installée, ZaakTV propose elle-même les mises à jour au démarrage.
 
 > ZaakTV ne fournit aucune chaîne ni aucun contenu. Utilisez uniquement des playlists que vous avez
