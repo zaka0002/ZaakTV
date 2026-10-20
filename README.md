@@ -5,14 +5,10 @@ téléphones et tablettes. L'application y vérifie automatiquement les nouvelle
 
 ## Captures d'écran
 
-| | |
-| --- | --- |
-| ![Chaînes en direct](screenshots/tv.png) | ![Guide des programmes](screenshots/guide.png) |
-| **Chaînes** : groupes, logos, programme en cours | **Guide** : grille, ligne « maintenant », replay |
-| ![Films](screenshots/movies.png) | ![Série](screenshots/series12.png) |
-| **Films** : affiches, catégories, favoris | **Séries** : saisons et épisodes |
-| ![Paramètres](screenshots/settings.png) | ![Ajouter une playlist](screenshots/add.png) |
-| **Paramètres** : playlists, mises à jour, portail | **Ajout de playlist** : à la télécommande ou depuis le téléphone (QR code) |
+<table>
+<tr><td align="center"><img src="screenshots/tv.png" width="260" alt="Chaînes"><br><sub>Chaînes</sub></td><td align="center"><img src="screenshots/guide.png" width="260" alt="Guide TV"><br><sub>Guide TV</sub></td><td align="center"><img src="screenshots/movies.png" width="260" alt="Films"><br><sub>Films</sub></td></tr>
+<tr><td align="center"><img src="screenshots/series12.png" width="260" alt="Séries"><br><sub>Séries</sub></td><td align="center"><img src="screenshots/settings.png" width="260" alt="Paramètres"><br><sub>Paramètres</sub></td><td align="center"><img src="screenshots/add.png" width="260" alt="Ajout de playlist"><br><sub>Ajout de playlist</sub></td></tr>
+</table>
 
 <sub>Captures prises sur Chromecast avec Google TV, avec un catalogue de démonstration (chaînes et vidéos fictives).</sub>
 
