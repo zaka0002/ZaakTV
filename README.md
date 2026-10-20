@@ -3,6 +3,19 @@
 Ce dépôt contient uniquement les **APK publiés** de ZaakTV, lecteur IPTV libre pour Android TV,
 téléphones et tablettes. L'application y vérifie automatiquement les nouvelles versions.
 
+## Captures d'écran
+
+| | |
+| --- | --- |
+| ![Chaînes en direct](screenshots/tv.png) | ![Guide des programmes](screenshots/guide.png) |
+| **Chaînes** : groupes, logos, programme en cours | **Guide** : grille, ligne « maintenant », replay |
+| ![Films](screenshots/movies.png) | ![Série](screenshots/series12.png) |
+| **Films** : affiches, catégories, favoris | **Séries** : saisons et épisodes |
+| ![Paramètres](screenshots/settings.png) | ![Ajouter une playlist](screenshots/add.png) |
+| **Paramètres** : playlists, mises à jour, portail | **Ajout de playlist** : à la télécommande ou depuis le téléphone (QR code) |
+
+<sub>Captures prises sur Chromecast avec Google TV, avec un catalogue de démonstration (chaînes et vidéos fictives).</sub>
+
 ## Installer
 
 ### 📺 Code Downloader : **7201837**
