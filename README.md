@@ -10,8 +10,6 @@ téléphones et tablettes. L'application y vérifie automatiquement les nouvelle
 <tr><td align="center"><img src="screenshots/series12.png" width="260" alt="Séries"><br><sub>Séries</sub></td><td align="center"><img src="screenshots/settings.png" width="260" alt="Paramètres"><br><sub>Paramètres</sub></td><td align="center"><img src="screenshots/add.png" width="260" alt="Ajout de playlist"><br><sub>Ajout de playlist</sub></td></tr>
 </table>
 
-<sub>Captures prises sur Chromecast avec Google TV, avec un catalogue de démonstration (chaînes et vidéos fictives).</sub>
-
 ## Installer
 
 ### 📺 Code Downloader : **7201837**
