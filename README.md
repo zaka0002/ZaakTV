@@ -16,7 +16,7 @@ téléphones et tablettes. L'application y vérifie automatiquement les nouvelle
 
 ### 📺 Code Downloader : **7201837**
 
-Sur une TV ou box Android (Android TV, Fire TV, Google TV, DirecTV) :
+Sur une TV ou box Android (Android TV, Google TV, Fire TV) :
 
 1. Installe l'app **Downloader** depuis le store, si elle n'y est pas déjà.
 2. Dans le champ d'adresse, tape **`7201837`**, puis **Go**.
