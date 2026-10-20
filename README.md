@@ -18,7 +18,7 @@ Le code donne toujours la **dernière version**.
 ### Autres moyens
 
 - Lien court : http://aftv.news/7201837
-- Lien direct (dernière version) : https://github.com/zaka0002/ZaakTV-releases/releases/latest/download/ZaakTV.apk
+- Lien direct (dernière version) : https://github.com/zaka0002/ZaakTV/releases/latest/download/ZaakTV.apk
 - Toutes les versions : onglet [Releases](../../releases)
 
 Une fois installée, ZaakTV propose elle-même les mises à jour au démarrage.
